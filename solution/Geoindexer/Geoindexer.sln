@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geoindexer.API", "Geoindexer.API\Geoindexer.API.csproj", "{005573B8-12DE-4B64-94B1-58ACE73891B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geoindexer.Tests", "Geoindexer.Tests\Geoindexer.Tests.csproj", "{1CBB4FCD-D7BF-413C-80A1-65E346EE9E66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geoindexer.Domain", "Geoindexer.Domain\Geoindexer.Domain.csproj", "{30D3B181-2671-44ED-A241-F5AEA1538474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{005573B8-12DE-4B64-94B1-58ACE73891B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005573B8-12DE-4B64-94B1-58ACE73891B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005573B8-12DE-4B64-94B1-58ACE73891B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005573B8-12DE-4B64-94B1-58ACE73891B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CBB4FCD-D7BF-413C-80A1-65E346EE9E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBB4FCD-D7BF-413C-80A1-65E346EE9E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBB4FCD-D7BF-413C-80A1-65E346EE9E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBB4FCD-D7BF-413C-80A1-65E346EE9E66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D3B181-2671-44ED-A241-F5AEA1538474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D3B181-2671-44ED-A241-F5AEA1538474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D3B181-2671-44ED-A241-F5AEA1538474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D3B181-2671-44ED-A241-F5AEA1538474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
